@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BeatriceDuncan
+- 👀 I’m interested in drawing, sewing and eating.
+- 🌱 I’m always learning - currently building up my front end development skills, JavaScript (vanilla JS, React & jQuery) in particular.
+- 📫 How to reach me: hello@beatriceduncan.com
